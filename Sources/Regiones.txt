@@ -1,0 +1,22 @@
+Region ID	Region Desc	Detalle region
+1	Región Comercial I	" Connecticut, Maine, Massachusetts"
+2	Región Comercial II	" Nueva Jersey, Nueva York, Puerto Rico"
+3	Región Comercial III	" Delaware, Distrito de Columbia"
+4	Región Comercial IV	" Alabama, Florida, Georgia"
+5	Región Comercial V	" Illinois, Indiana, Míchigan, Minesota, Ohio, Wisconsin"
+6	Región Comercial VI	" Arkansas, Luisiana, "
+7	Región Comercial VII	" Iowa, Kansas, Misuri, Nebraska"
+8	Región Comercial VIII	" Colorado, Montana, Wyoming"
+9	Región Comercial IX	" Arizona, California, Hawái,"
+10	Región Comercial X	" Alaska, Idaho, Oregón, Washington"
+11	Región Comercial XI	"Nuevo Hampshire, "
+12	Región Comercial XII	 Islas Vírgenes de los Estados Unidos
+13	Región Comercial XIII	"Maryland, Pensilvania"
+14	Región Comercial XIV	" Kentucky, Misisipi"
+15	Región Comercial XV	" Carolina del Norte, Carolina del Sur, Tennessee"
+16	Región Comercial XVI	"Nevada, Samoa Americana, Guam, Islas Marianas del Norte, Territorio en Fideicomiso de las Islas del Pacífico"
+17	Región Comercial XVII	"Virginia, Virginia Occidental"
+18	Región Comercial XVIII	"Dakota del Norte, Dakota del Sur, Utah"
+19	Región Comercial XIX	"Nuevo México, Texas, Oklahoma"
+20	Región Comercial XX	"Rhode Island, Vermont"
+		

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+<table_maestria.tb_tipo_envio>
+<maestria.tb_tipo_envio id_tipo="1" Descripción="Tecnologico" />
+<maestria.tb_tipo_envio id_tipo="2" Descripción="Tradicional " />
+<maestria.tb_tipo_envio id_tipo="3" Descripción="Tradicional Prefrente" />
+</table_maestria.tb_tipo_envio>
+</Data>

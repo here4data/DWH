@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+<table_maestria.tb_modo_envio>
+<maestria.tb_modo_envio id_modo="0" Descripcion="Envío e-mail" Tipo_x0020_ID="1" />
+<maestria.tb_modo_envio id_modo="1" Descripcion="Recoge en local asociado" Tipo_x0020_ID="2" />
+<maestria.tb_modo_envio id_modo="2" Descripcion="Recoge en tienda que compro" Tipo_x0020_ID="2" />
+<maestria.tb_modo_envio id_modo="3" Descripcion="Entrega el mismo día" Tipo_x0020_ID="3" />
+<maestria.tb_modo_envio id_modo="4" Descripcion="Entrega a la semana" Tipo_x0020_ID="2" />
+<maestria.tb_modo_envio id_modo="5" Descripcion="Recoge en otra tienda misma ciudad" Tipo_x0020_ID="2" />
+<maestria.tb_modo_envio id_modo="6" Descripcion="Recoge en otra tienda diferente ciudad" Tipo_x0020_ID="2" />
+<maestria.tb_modo_envio id_modo="7" Descripcion="Entrega al dia siguiente" Tipo_x0020_ID="3" />
+<maestria.tb_modo_envio id_modo="8" Descripcion="Entrega dos dias sigueintes" Tipo_x0020_ID="3" />
+<maestria.tb_modo_envio id_modo="9" Descripcion="Recoge en centro comercial - Autoservicio" Tipo_x0020_ID="1" />
+<maestria.tb_modo_envio id_modo="10" Descripcion="No especifica" Tipo_x0020_ID="4" />
+</table_maestria.tb_modo_envio>
+</Data>

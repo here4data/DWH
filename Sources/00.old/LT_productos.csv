@@ -1,0 +1,301 @@
+﻿Producto ID,Numero Producto,Producto Sub Categoria ID,Nombre Producto
+1,KAC79,A18,Accesorios de informática  
+2,XOY,A1,Aceite comestibles
+3,FIX349,A13,Aceite para bebe
+4,KIV8128,A2,Aceitunas
+5,XOP609,A14,Ácido muriático
+6,XEB58114,A1,Aderezos
+7,PAL945,A8,Agua mineral
+8,XOK8175,A8,Agua natural
+9,ZOT,A12,Agua oxigenada
+10,GEH8165,A8,Agua saborizada
+11,MEY13367,A7,Aguacates
+12,SUV167,A6,Ajos
+13,KUF5,A12,Alcohol
+14,MAW28127,A13,Algodón
+15,PEK,A1,Alimento para bebe
+16,DOT0481,A1,Alimento para mascotas
+17,VEX,A14,Aluminio
+18,MAR99,A12,Analgésicos
+19,BUZ,A9,Anís
+20,DAB,A12,Antiácidos
+21,NAJ16450,A12,Antigripales
+22,BAD7,A17,Archiveros
+23,WIS,A14,Aromatizantes
+24,YAW5,A17,Arte y decoración
+25,VUQ4815,A19,Artículos de oficina
+26,RAD,A1,Atole
+27,TOS24806,A2,Atún en agua/aceite
+28,POF0522,A1,Avena
+29,FUB5,A1,Azúcar
+30,PEP969,A4,Barras alimenticias
+31,NEY7,A20,Bebidas
+32,DOZ7,A8,Bebidas de soya
+33,SUV,A8,Bebidas en polvo
+34,HAL,A8,Bebidas infantiles
+35,LEW4302,A8,Bebidas isotónicas
+36,GEM75,A9,Bebidas preparadas
+37,FAF84598,A13,Biberones
+38,JIM08632,A19,Bolígrafos
+39,FIP1295,A4,Botanas saladas
+40,QIY519,A9,Brandy
+41,FUS0,A4,Cacahuates
+42,FUK557,A1,Café
+43,BEB592,A20,Cafetera comercial y suministros
+44,LEY,A1,Cajeta
+45,ZUH9004,A24,Capuchas y unidades de cabeza suave
+46,TEP,A5,Caramelos
+47,HAW0211,A11,Carne de puerco/res/pollo
+48,WIM,A11,Carnes y Embudos
+49,LIF437,A28,Cartuchos y Filtros
+50,REY8,A22,Cascos de seguridad
+51,WUB308,A26,Cascos para soldar
+52,MIH1,A1,Catsup
+53,SOF18044,A7,Cebollas
+54,KUK6,A13,Cepillo de dientes
+55,YIP,A16,Cepillo de plástico
+56,SEM31277,A14,Cera para automóvil
+57,TOB180,A14,Cera para calzados
+58,ROF44,A1,Cereales
+59,XEK065,A14,Cerillos
+60,SAL,A9,Cerveza
+61,PIM7,A2,Champiñones enteros/rebanados
+62,JAY036,A2,Chícharo con zanahoria
+null,MUT80,A2,Chícharos enlatados
+63,FEX241,A1,Chile piquín
+64,RUC20,A6,Chiles
+65,RED,A2,Chiles enlatados
+66,QEJ,A2,Chiles envasados
+67,MAS35685,A5,Chocolate de mesa
+68,KAS91,A5,Chocolate en polvo
+69,ZAH,A5,Chocolates
+70,QAL,A11,Chorizo
+71,KAB3,A7,Cilantro/Perejil
+72,KAD51612,A16,Cinta adhesiva
+73,JUW73,A14,Cloro para ropa
+74,TIN621,A14,Cloro/Blanqueador
+75,TEK8,75,null
+76,CEJ,A18,Computadoras de oficina
+77,JUJ52,A18,Computadoras portátiles de oficina 
+78,ZAP0783,A1,Consome
+79,FAJ19669,A9,Cordiales
+80,CEH7,A13,Cotonetes
+81,WER,A3,Crema
+82,XEQ,A13,Crema corporal/facial
+83,FEW43,A1,Crema de cacahuate
+84,WIG9926,A13,Crema para afeitar
+85,QAB369,A1,Crema para café
+86,HEG233,A16,Cucharas de plástico
+87,RAY72,A13,Dentífricos
+88,XAF52,A14,Desinfectantes
+89,WIW,A13,Desodorantes en barra/aerosol
+90,KUP65859,A14,Detergente para ropa
+91,ZAY,A14,Detergentes para trastes
+92,QAG,A18,Discos duros de almacenamiento y respaldo
+93,NOC320,A5,Dulces enchilados
+94,VIX808,A8,Energetizantes
+95,KIK,A19,"Engrapadoras, grapas, sujetapapeles y chinchetas"
+96,QOG0,A13,Enjuague bucal
+97,JIR2,A2,Ensaladas enlatadas
+98,YAP22,A16,Escobas/Trapeadores/Mechudos
+99,JUV06,A17,Escritorios de oficina
+100,NED4,A1,Especias
+101,SUF5,A16,Extensiones/Multicontacto
+102,POM78,A14,Fibras limpiadoras
+103,SOZ4,A1,Flan en polvo
+104,VUK8584,A16,Focos
+105,NOV0,A1,Formulas infantiles
+106,DUP878,A2,Frijoles enlatados
+107,RIL81,A4,Frituras de maíz
+108,TIN05317,A2,Frutas en almíbar
+109,NOM10,A16,Fusibles
+110,RAX9,A6,Galletas dulces
+111,MIY3928,A6,Galletas saladas
+112,VEM4,A12,Gasas
+113,SUH,A13,Gel/spray
+114,KOG843,A1,Gelatinas en polvo/Grenetina
+115,VUG79,A9,Ginebra
+116,LIW,A25,Goggles de seguridad
+117,REQ7034,A5,Gomas de mascar
+118,LIC99376,A2,Granos de elote enlatados
+119,VEP605,A1,Harina
+120,MIS08,A1,Harina preparada
+121,XUY05,A18,Herramientas de redes  
+122,SOQ80,A1,Huevo
+123,MUH9,A17,Iluminación
+124,HEC5324,A18,Impresoras de oficina  
+125,BEZ3,A14,Insecticidas
+126,KOK51,A8,Isotónicos
+127,DEX0,A14,Jabón de barra
+128,BAR3,A14,Jabón en barra
+129,FAJ4,A13,Jabones corporales/tocados
+130,MEB25,A11,Jamón
+131,RAB7821,A8,Jarabes
+132,COX066,A9,Jerez
+133,LIB4660,A16,Jergas/Franelas
+134,XER89430,A6,Jitomate
+135,JON8531,A8,Jugos/Néctares
+136,YIQ26,A3,Leche condesada
+137,HAX89288,A3,Leche deslactosada
+138,BAF07426,A3,Leche en polvo
+139,LUD145,A3,Leche evaporada
+140,YOD104,A3,Leche light
+141,QIL,A3,Leche pasteurizada
+142,ZUR7474,A3,Leche saborizada
+143,DOP3429,A3,Leche semidescremada
+144,GIP,A25,Lentes de seguridad
+145,BIL,A6,Limones
+146,JAL9,A14,Limpiadores líquidos
+147,RIM84,A14,Limpiadores para pisos
+148,JUD66639,A13,Loción hidratante
+149,KIT90210,A13,Lubricantes para labios
+150,PUN70,A5,Malvaviscos
+151,RAC411,A11,Manteca
+152,RIZ,A3,Mantequilla
+153,ZAL,A7,Manzanas
+154,GEF584,154,null
+155,KOY340,A13,Maquillaje
+156,XUV0365,A19,Marcadores de pizarra y resaltadores
+157,FUV7100,A3,Margarina
+158,DAT35302,A16,Matamoscas
+159,FAR507,A19,Materiales de envío y empaque como sobres y cinta
+160,RIR,A1,Mayonesa
+161,DOB26137,A5,Mazapán
+162,HAH6826,A16,Mecate/cuerda
+163,JOJ79,A3,Media crema
+164,YEB6796,A21,Medición de ruido
+165,FIC,A1,Mermelada
+166,JAT,A17,Mesas de la sala de conferencias
+167,RIB0093,A9,Mezcal
+168,TOW3833,A1,Miel
+169,JUC1,A1,Mole
+170,NIQ6,A21,Monitores de calidad del aire
+171,YOH4,A21,Monitores de estrés térmico
+172,DUL86498,A11,Mortadela
+173,HOM,A8,Naranjadas
+174,XOH266,A6,Naranjas
+175,NAY1,A4,Nueces y semillas
+176,XIP110,A23,Orejeras
+177,BET9747,A19,Organizadores
+178,WUG40,A29,Overoles de uso ligero
+179,ROZ555,A5,Paletas de dulce
+180,BAB,A15,Paletas/ Helados
+181,RUB9570,A4,Palomitas
+182,SIR42579,A6,Pan de caja
+183,VOX212,A6,Pan dulce
+184,RIZ64,A6,Pan molido
+185,BES3845,A6,Pan tostado
+186,XEM760,A13,Pañuelos desechables
+187,RID76241,A13,Pañuelos faciales
+188,QEW5,A4,Papa
+189,LIH234,A7,Papas
+190,LAY3,A19,Papel en diferentes tamaños
+191,LUH944,A13,Papel higiénico
+192,GAC,A21,Partes y accesorios
+193,NUV8,A1,Pastas
+194,POB69571,A10,Pastas listas para comer
+195,BIH23,A6,Pastelillos
+196,GEL3176,A5,Pastillas de dulce
+197,WEQ27,A14,Pastillas sanitarias
+198,TIL58,A16,Pegamento
+199,MUS4,A14,Pilas
+200,LIG,A17,Pizarras
+201,YAR7,A7,Plátanos
+202,RAN47,A16,Platos desechables
+203,VAF04,A16,Popotes
+204,GAM16,A12,Preservativos
+205,BEX5679,A20,Primeros auxilios
+206,QIV,A20,Productos de papel y desechables
+207,FUV05,A22,Protección para el rostro
+208,ZUG,A18,Proyectores 
+209,CIT70147,A5,Pulpa de tamarindo
+210,LOQ39,A1,Pure de tomate
+211,LIX4,A3,Queso
+212,CEH4067,A13,Rastrillos
+213,ZUN3124,A16,Recogedor de metal/plástico
+214,NIY7,A8,Refrescos
+215,DOK6346,A20,Refrigerios
+216,RUD77815,A27,Respiradores de uso general
+217,QOL588,A28,Respiradores medio rostro
+218,MAM48099,A27,Respiradores para aliviar malos olores
+219,RUN,A28,Respiradores rostro completo
+220,BUT0393,A9,Ron
+221,GOK399,A1,Sal
+222,JEJ84,A11,Salchicha
+223,TIY1791,A1,Salsas envasadas
+224,DAW2569,A2,Sardinas
+225,FEF,A1,Sazonadores
+226,NEP61906,A14,Servilletas
+227,QEJ32,A14,Servitoallas
+228,MOX,A14,Shampoo para ropa
+229,PAG55104,A13,Shampoo/ Acondicionador
+230,HEF,A9,Sidra
+231,MUZ88,A17,Sillas de oficina
+232,TAX,A24,Sistemas de aire motorizados
+233,PIT682,A24,Sistemas para suministro de aire
+234,HAJ682,A26,Sistemas Respiratorios para Soldadura
+235,DAN047,A17,Sofás
+236,HIL,A18,Software de pequeñas empresas para la productividad de su negocio
+237,SET91,A2,Sopa en lata
+238,YOG6,A1,Sopas en sobre
+239,VAP2028,A10,Sopas en vaso
+240,POC4,A14,Sosa caustica
+241,XEJ40203,A14,Suavizante de telas
+242,QUM621,A12,Suero
+243,NUR42,A20,Suministros de limpieza para la oficina
+244,MUV7958,A13,Talco
+245,DOR6588,A23,Tapones auditivos de espuma
+246,HAL44,A23,Tapones auditivos premoldeados
+247,QOT070,A19,Tarjetas de presentación
+248,WIF,A1,Te
+249,RUM1335,A20,Té y café
+250,NIJ1,A18,Teléfonos de oficina
+251,ZOJ74,A16,Tenedores de plástico
+252,DUW20539,A9,Tequila
+253,VUJ4306,A19,Tinta y tóner para la impresora
+254,LOD,A13,Tinte para el cabello
+255,DAX,A13,Toallas femeninas
+256,JAQ343,A13,Toallas húmedas
+257,DUC89126,A11,Tocino
+258,YET2,A6,Tortillas de harina/maíz
+259,DEV,A16,Trampas para ratas
+260,CUY60,A19,Trituradoras de papel
+261,XUC,A23,Validación & herramientas E-A-R Fit
+262,BUZ34,A16,Vasos desechables
+263,FEM262,A2,Vegetales en conserva
+264,NIY3,A16,Veladoras/Velas
+265,GOF8,A1,Vinagre
+266,MEP530,A9,Vodka
+267,FUW2798,A9,Whiskey
+268,JEB,A3,Yoghurt
+269,XIT641,269,null
+270,SEP3,270,null
+271,VEC28,271,null
+272,BOW128,272,null
+273,BES,273,null
+274,XUB2,274,null
+275,WIT,275,null
+276,XUK7,276,null
+277,REN864,277,null
+278,RIG042,278,null
+279,MIR4735,279,null
+280,SOP672,280,null
+281,ZAJ6503,281,null
+282,QEB25,282,null
+283,WEF134,283,null
+284,HUX,284,null
+285,KAP8,285,null
+286,LUS410,286,null
+287,YUS108,287,null
+288,LAD83315,288,null
+289,MUT4224,289,null
+290,NIS,290,null
+291,CUX62254,291,null
+292,YEG47206,292,null
+293,MIH257,293,null
+294,ZOS28,294,null
+295,QEW320,295,null
+296,GAD05,296,null
+297,PIF,297,null
+298,LAM,298,null
+299,CAT53,299,null

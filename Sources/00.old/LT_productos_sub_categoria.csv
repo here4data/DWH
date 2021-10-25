@@ -1,0 +1,48 @@
+﻿Subcategoria Producto ID,Categoria Producto ID,Descripcion Subcategoria
+1,1,Bookcases
+2,1,Chairs
+3,1,Furnishings
+4,1,Tables
+5,2,Appliances
+6,2,Art
+7,2,Binders
+8,2,Envelopes
+9,2,Fasteners
+10,2,Labels
+11,2,Paper
+12,2,Storage
+13,2,Supplies
+14,3,Accessories
+15,3,Copiers
+16,3,Machines
+17,3,Phones
+A1,SM,ABARROTES
+A10,FF1,ALIMENTOS PREPARADOS
+A11,SM,EMBUTIDOS
+A12,SM,AUTOMEDICACIÓN
+A13,SM,HIGIENE PERSONAL
+A14,SM,USO DOMESTICO
+A15,SM,HELADOS
+A16,SM,JARCERIA / PRODUCTOS DE LIMPIEZA
+A17,OF,Muebles de oficina
+A18,OF,Tecnología
+A19,OF,Artículos de oficina esenciales
+A2,SM,ENLATADOS
+A20,OF,Salas de descanso
+A21,PP,Soluciones de detección
+A22,PP,Protección para cabeza y cara
+A23,PP,Protección auditiva
+A24,PP,Respiradores de suministro de aire y motorizados
+A25,PP,Protección ocular
+A26,PP,Protección para soldar
+A27,PP,Respiradores desechables
+A28,PP,Respiradores Reutilizables
+A29,PP,Prendas de protección
+A3,SM,LÁCTEOS
+A4,FF1,BOTANAS
+A5,FF1,CONFITERÍA
+A6,SM,FRUTAS Y VERDURAS
+A6,SM,HARINAS
+A7,SM,FRUTAS Y VERDURAS
+A8,BE,BEBIDAS
+A9,BE,BEBIDAS ALCOHÓLICAS

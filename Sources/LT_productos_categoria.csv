@@ -10,79 +10,26 @@
 01.1.9,Food products n.e.c.
 01.2.1,"Coffee, tea and cocoa"
 01.2.2,"Mineral waters, soft drinks, fruit and vegetable juices"
-02.1.1,Spirits
-02.1.2,Wine
-02.1.3,Beer
+02.1.1,Driks with alcohol
 02.2.1,Tobacco 
 03.1.1,Clothing materials
 03.1.2,Garments
-03.1.3,Other articles of clothing and clothing accessories
-03.1.4,"Cleaning, repair and hire of clothing"
 03.2.1,Shoes and other footwear
-04.3.1,Materials for the maintenance and repair of the dwelling
-04.3.2,Services for the maintenance and repair of the dwelling
-04.4.1,Water supply
-04.5.1,Electricity
-04.5.2,Gas
-04.5.3,Liquid fuels
-04.5.4,Solid fuels
-04.5.5,Heat energy
+04.3.1,Maintenance and repair of the dwelling
 05.1.1,Furniture and furnishings
-05.1.2,Carpets and other floor coverings
-05.2.1,Household textiles
-05.3.1,Major household appliances whether electric or not
-05.3.2,Small electric household appliances
-05.3.3,Repair of household appliances
-05.4.1,"Glassware, tableware and household utensils"
-05.5.1,Major tools and equipment
-05.5.2,Small tools and miscellaneous accessories
-05.6.1,Non-durable household goods
 05.6.2,Domestic services and household services
 06.1.1,Pharmaceutical products
-06.1.2,Other medical products
-06.1.3,Therapeutic appliances and equipment
 06.2.1,Medical services
-06.2.2,Dental services
-06.2.3,Paramedical services
-07.1.1,Motor cars
-07.1.2,Motor cycles
-07.1.3,Bicycles
-07.2.1,Spare parts and accessories for personal transport equipment
-07.2.2,Fuels and lubricants for personal transport equipment
-07.2.3,Maintenance and repair of personal transport equipment
-07.2.4,Other services in respect of personal transport equipment
-07.3.1,Passenger transport by railway
-07.3.2,Passenger transport by road
-07.3.3,Passenger transport by air
-07.3.4,Passenger transport by sea and inland waterway
-07.3.6,Other purchased transport services
-08.1.1,Postal services
-08.3.1,Telephone and telefax services
-09.1.1,"Equipment for the reception, recording and reproduction of sound and pictures"
-09.1.2,Photographic and cinematographic equipment and optical instruments
-09.1.3,Information processing equipment
-09.1.4,Recording media
-09.1.5,"Repair of audio-visual, photographic and information processing equipment"
-09.3.1,"Games, toys and hobbies"
-09.3.2,"Equipment for sport, camping and open-air recreation"
-09.3.3,"Gardens, plants and flowers"
+07.1.1,Transportation
+08.3.1,Media
+09.3.1,Entertainment
 09.3.4,Pets and related products
-09.3.5,Veterinary and other services for pets
-09.4.1,Recreational and sporting services
-09.4.2,Cultural services
-09.5.1,Books
-09.5.2,Newspapers and periodicals
-09.5.3,Miscellaneous printed matter
-11.1.1,"Restaurants, cafés and the like"
-12.1.1,Hairdressing salons and personal grooming establishments
-12.1.3,"Other appliances, articles and products for personal care"
-12.3.1,"Jewellery, clocks and watches"
-12.3.2,Other personal effects 
-2,Office Supplies
-BE,Bebidas
-FF1,Fast food
+09.5.1,Readings
+11.1.1,Public Services
 FROZ,frozen products 
-OF,Office Products
-p124,Pets and related products
-PP,Labor protection elements
+2,Office Supplies
 SM,Massive consume
+FF1,Fast food
+OF,Office Products
+PP,Labor protection elements
+BE,Bebidas

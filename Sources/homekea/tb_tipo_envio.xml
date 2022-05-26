@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+<table_diplomado.tb_tipo_envio>
+<diplomado.tb_tipo_envio Tipo_x0020_ID="1" Descripcion="Tecnologico" />
+<diplomado.tb_tipo_envio Tipo_x0020_ID="2" Descripcion="Tradicional " />
+<diplomado.tb_tipo_envio Tipo_x0020_ID="3" Descripcion="Tradicional Prefrente" />
+</table_diplomado.tb_tipo_envio>
+</Data>
